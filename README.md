@@ -1,4 +1,4 @@
 # mcskincrawl
 Minecraft skin parse and download
 # Usage:
-mcskin <minecraft user name>
+mcskin "your minecraft user name"
