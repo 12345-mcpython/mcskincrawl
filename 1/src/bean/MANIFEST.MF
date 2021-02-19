@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: McSkinCrawl
+
+Class-Path: lib/gson-2.8.0.jar
+Name: bean/
+Sealed: true
+
+Name: /
+Sealed: true
+
