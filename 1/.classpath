@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
 	<classpathentry exported="true" kind="lib" path="lib/gson-2.8.0.jar"/>
-	<classpathentry kind="lib" path="main.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

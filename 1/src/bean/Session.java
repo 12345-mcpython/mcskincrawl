@@ -2,6 +2,7 @@ package bean;
 
 import java.util.List;
 
+@SuppressWarnings("rawtypes")
 public class Session {
 	private String id;
 	private String name;
